@@ -1,0 +1,146 @@
+{
+  "mods": [
+    {
+      "id": "scrollabletooltips",
+      "file": "Scrollable Tooltips-1.4 (1.8.9).jar"
+    },
+    {
+      "id": "smoothscrollingeverywhere",
+      "file": "smooth-scrolling-everywhere-1.2.jar"
+    },
+    {
+      "id": "antidreamskin",
+      "file": "Insomnia-1.0-REL.jar"
+    },
+    {
+      "id": "scu",
+      "file": "SkyClient-Updater-1.8.9-forge-1.3.5.jar"
+    },
+    {
+      "id": "scc",
+      "file": "SkyClientCosmetics-1.8.9-forge-1.1.14.jar"
+    },
+    {
+      "id": "optifine",
+      "file": "preview_OptiFine_1.8.9_HD_U_M6_pre2.jar"
+    },
+    {
+      "id": "patcher",
+      "file": "Patcher-1.8.7 (1.8.9).jar"
+    },
+    {
+      "id": "crashpatch",
+      "file": "CrashPatch-1.8.9-forge-2.0.0.jar"
+    },
+    {
+      "id": "hytils-reborn",
+      "file": "Hytils Reborn-1.8.9-forge-1.6.1.jar"
+    },
+    {
+      "id": "sba",
+      "file": "SkyblockAddons-1.7.3+7380-for-MC-1.8.9.jar"
+    },
+    {
+      "id": "fancywarpmenu",
+      "file": "FancyWarpMenu-1.0+96.jar"
+    },
+    {
+      "id": "sbhud",
+      "file": "SkyblockHud-Reborn-1.17.1.jar"
+    },
+    {
+      "id": "neu",
+      "file": "NotEnoughUpdates-2.1.1-Pre-5.jar"
+    },
+    {
+      "id": "skytils",
+      "file": "Skytils-1.8.2.jar"
+    },
+    {
+      "id": "sbp",
+      "file": "1.8.9.SkyblockPersonalized.1.7.0.0.jar"
+    },
+    {
+      "id": "overflowanimations",
+      "file": "OverflowAnimations-1.8.9-forge-2.1.1.jar"
+    },
+    {
+      "id": "mixmetica",
+      "file": "Mixmetica-1.8.9-forge-2.0.2.jar"
+    },
+    {
+      "id": "craftify",
+      "file": "Craftify-1.8.9-1.14.1-forge.jar"
+    },
+    {
+      "id": "quickquit",
+      "file": "QuickQuit-1.0.0.jar"
+    },
+    {
+      "id": "optibye",
+      "file": "Optibye-1.0.0-dep.jar"
+    },
+    {
+      "id": "polysprint",
+      "file": "PolySprint-1.8.9-forge-1.0.0.jar"
+    },
+    {
+      "id": "hypixel_auto_complete",
+      "file": "Hypixel Autocomplete-1.1 (1.8.9).jar"
+    },
+    {
+      "id": "vanillahud",
+      "file": "VanillaHUD-1.8.9-forge-2.1.1.jar"
+    },
+    {
+      "id": "chatting",
+      "file": "Chatting-1.8.9-forge-1.5.3.jar"
+    },
+    {
+      "id": "polynametag",
+      "file": "PolyNametag-1.8.9-forge-1.0.0.jar"
+    },
+    {
+      "id": "rc",
+      "file": "RewardClaim-1.0.5.jar"
+    },
+    {
+      "id": "reportplus",
+      "file": "ReportPlus-1.0.0.jar"
+    },
+    {
+      "id": "popup_events",
+      "file": "Popup Events-1.3.2 (1.8.9).jar"
+    },
+    {
+      "id": "autogg",
+      "file": "AutoGG-4.1.3 (1.8.9).jar"
+    },
+    {
+      "id": "autotip",
+      "file": "Autotip-3.1.1 (1.8.9_forge).jar"
+    },
+    {
+      "id": "tnttime",
+      "file": "TNT Time-1.1 (1.8.9).jar"
+    },
+    {
+      "id": "levelhead",
+      "file": "LevelHead-8.2.2 (1.8.9).jar"
+    }
+  ],
+  "packs": [
+    {
+      "id": "rnbw",
+      "file": "RNBW+ v0.7.0.zip"
+    },
+    {
+      "id": "fsr_full",
+      "file": "FurfSky Reborn FULL [1.7.3].zip"
+    },
+    {
+      "id": "defaultpackport",
+      "file": "1.14 Packport.zip"
+    }
+  ]
+}

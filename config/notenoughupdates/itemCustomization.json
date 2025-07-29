@@ -1,0 +1,24 @@
+{
+  "itemData": {
+    "80bf591d-b0d6-4219-abd3-5178b5c5c66c": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:stone_hoe",
+      "customItem": "stone_hoe"
+    },
+    "fe273fb7-0091-44db-9d17-6453a4f52a44": {
+      "customNamePrefix": "",
+      "overrideEnchantGlint": false,
+      "enchantGlintValue": false,
+      "customGlintColour": "0:204:100:25:255",
+      "animatedDyeTicks": 2,
+      "dyeMode": "CYCLING",
+      "defaultItem": "minecraft:prismarine_shard",
+      "customItem": "prismarine_shard"
+    }
+  }
+}

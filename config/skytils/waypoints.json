@@ -1,0 +1,163 @@
+{
+    "categories": [
+        {
+            "name": "Magma Fields Ruby",
+            "waypoints": [
+                {
+                    "name": "11",
+                    "x": 581,
+                    "y": 49,
+                    "z": 515,
+                    "enabled": false,
+                    "addedAt": 1714739394580
+                },
+                {
+                    "name": "15",
+                    "x": 565,
+                    "y": 40,
+                    "z": 516,
+                    "enabled": false,
+                    "addedAt": 1714739396434
+                },
+                {
+                    "name": "6",
+                    "x": 563,
+                    "y": 47,
+                    "z": 530,
+                    "enabled": false,
+                    "addedAt": 1714739254029
+                },
+                {
+                    "name": "9",
+                    "x": 588,
+                    "y": 60,
+                    "z": 509,
+                    "enabled": false,
+                    "addedAt": 1714739255232
+                },
+                {
+                    "name": "4",
+                    "x": 574,
+                    "y": 35,
+                    "z": 531,
+                    "enabled": false,
+                    "addedAt": 1714739253229
+                },
+                {
+                    "name": "13",
+                    "x": 576,
+                    "y": 49,
+                    "z": 502,
+                    "enabled": false,
+                    "addedAt": 1714739395479
+                },
+                {
+                    "name": "16",
+                    "x": 566,
+                    "y": 33,
+                    "z": 506,
+                    "enabled": false,
+                    "addedAt": 1714739396827
+                },
+                {
+                    "name": "12",
+                    "x": 586,
+                    "y": 49,
+                    "z": 512,
+                    "enabled": false,
+                    "addedAt": 1714739394979
+                },
+                {
+                    "name": "18",
+                    "x": 577,
+                    "y": 33,
+                    "z": 514,
+                    "enabled": false,
+                    "addedAt": 1714739397882
+                },
+                {
+                    "name": "10",
+                    "x": 580,
+                    "y": 56,
+                    "z": 513,
+                    "enabled": false,
+                    "addedAt": 1714739255632
+                },
+                {
+                    "name": "7",
+                    "x": 564,
+                    "y": 53,
+                    "z": 519,
+                    "enabled": false,
+                    "addedAt": 1714739254384
+                },
+                {
+                    "name": "19",
+                    "x": 583,
+                    "y": 33,
+                    "z": 519,
+                    "enabled": false,
+                    "addedAt": 1714739398327
+                },
+                {
+                    "name": "17",
+                    "x": 572,
+                    "y": 62,
+                    "z": 504,
+                    "enabled": false,
+                    "addedAt": 1714739397427
+                },
+                {
+                    "name": "14",
+                    "x": 568,
+                    "y": 45,
+                    "z": 504,
+                    "enabled": false,
+                    "addedAt": 1714739395934
+                },
+                {
+                    "name": "5",
+                    "x": 560,
+                    "y": 46,
+                    "z": 537,
+                    "enabled": false,
+                    "addedAt": 1714739253585
+                },
+                {
+                    "name": "1",
+                    "x": 597,
+                    "y": 33,
+                    "z": 535,
+                    "enabled": false,
+                    "addedAt": 1714738834291
+                },
+                {
+                    "name": "3",
+                    "x": 581,
+                    "y": 38,
+                    "z": 529,
+                    "enabled": false,
+                    "addedAt": 1714739252184
+                },
+                {
+                    "name": "8",
+                    "x": 583,
+                    "y": 60,
+                    "z": 504,
+                    "enabled": false,
+                    "addedAt": 1714739254832
+                },
+                {
+                    "name": "2",
+                    "x": 588,
+                    "y": 32,
+                    "z": 525,
+                    "enabled": false,
+                    "addedAt": 1714739229126
+                }
+            ],
+            "isExpanded": false,
+            "island": "crystal_hollows"
+        }
+    ]
+}

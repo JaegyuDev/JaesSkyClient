@@ -1,0 +1,148 @@
+{
+  "misc": {
+    "hideScoreboard": false,
+    "style": 0,
+    "hideDialogueBox": true,
+    "dialoguePos": {
+      "x": 0,
+      "y": -50,
+      "centerX": true,
+      "centerY": false
+    },
+    "hideItemCooldowns": false
+  },
+  "main": {
+    "disaleMainHud": false,
+    "mainHudPos": {
+      "x": 0,
+      "y": 1,
+      "centerX": true,
+      "centerY": false
+    },
+    "twelveHourClock": false,
+    "bossShiftHud": true,
+    "requireRedstone": true
+  },
+  "rpg": {
+    "showRpgHud": true,
+    "flipHud": true,
+    "rpgHudPosition": {
+      "x": 1,
+      "y": 1,
+      "centerX": false,
+      "centerY": false
+    }
+  },
+  "dungeon": {
+    "ultimateBar": false,
+    "hideUltimateBar": false,
+    "barPosition": {
+      "x": 0,
+      "y": 50,
+      "centerX": true,
+      "centerY": false
+    },
+    "barLoadColor": "159:0:0:0:255",
+    "barFullColor": "255:0:0:0:255",
+    "barStyle": 2,
+    "dungeonPlayerAccordion": false,
+    "hideDungeonPlayers": false,
+    "dungeonPlayerOpacity": 0,
+    "hideDeadDungeonPlayers": false,
+    "dungeonPlayer1": {
+      "x": 5,
+      "y": 5,
+      "centerX": false,
+      "centerY": false
+    },
+    "dungeonPlayer2": {
+      "x": 5,
+      "y": 42,
+      "centerX": false,
+      "centerY": false
+    },
+    "dungeonPlayer3": {
+      "x": 5,
+      "y": 79,
+      "centerX": false,
+      "centerY": false
+    },
+    "dungeonPlayer4": {
+      "x": 5,
+      "y": 116,
+      "centerX": false,
+      "centerY": false
+    }
+  },
+  "renderer": {
+    "addOverflowMana": false,
+    "hideBossBar": true,
+    "hideXpBar": true,
+    "hideFood": true,
+    "hideAir": true,
+    "hideHearts": true,
+    "hideArmor": true,
+    "hideAnimalHearts": true
+  },
+  "map": {
+    "showPlayerLocation": false,
+    "showMiniMap": false,
+    "mapLocations": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "miniMapPosition": {
+      "x": 0,
+      "y": 100,
+      "centerX": false,
+      "centerY": false
+    },
+    "icons": false,
+    "showNpcIcons": true,
+    "showInfoIcons": true,
+    "showMiscIcons": true,
+    "showShopIcons": true,
+    "showQuestIcons": false
+  },
+  "mining": {
+    "miningBars": false,
+    "barMode": 1,
+    "showDrillBar": 1,
+    "showHeatBar": true,
+    "barPositions": false,
+    "drillBar": {
+      "x": -1,
+      "y": -1,
+      "centerX": false,
+      "centerY": false
+    },
+    "heatBar": {
+      "x": -1,
+      "y": -9,
+      "centerX": false,
+      "centerY": false
+    },
+    "waypoints": false,
+    "autoWaypoint": true,
+    "chatWaypointMode": 1
+  },
+  "trackers": {
+    "trackerPosition": {
+      "x": -1,
+      "y": 200,
+      "centerX": false,
+      "centerY": false
+    },
+    "hideTracker": true
+  }
+}

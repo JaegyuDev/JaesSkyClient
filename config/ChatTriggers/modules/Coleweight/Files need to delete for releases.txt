@@ -1,0 +1,4 @@
+all of config/ except routes.json
+.git
+License
+README.md
