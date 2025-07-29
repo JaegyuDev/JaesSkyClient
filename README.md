@@ -5,7 +5,7 @@
 
 2. Download this repo and save it under `%appdata%\.minecraft\installations\Skyclient`. If you change this path take note of it.
 
-![](assets/Installation-path.png)
+![](assets/Installation-Path.png)
 
 3. Click into `Installations` in the minecraft client, and create a new Installation
 
